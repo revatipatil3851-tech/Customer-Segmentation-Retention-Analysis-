@@ -157,3 +157,26 @@ By identifying high-value, loyal, at-risk and inactive customers, businesses can
 This dashboard explores customer recency, purchase frequency and customer value.
 
 ![Customer Behaviour Analysis](screenshots/customer-behaviour-analysis.png)
+
+## Project Status
+
+Completed:
+- Data exploration and preparation
+- Customer RFM analysis
+- Customer segmentation into seven groups
+- Power BI dashboard development
+- Business insights and recommendations
+- SQL query documentation
+- GitHub project documentation
+
+## Limitations
+
+- The project uses a synthetic e-commerce dataset.
+- Retention strategies are recommendations and have not been tested through live campaigns.
+- SQL queries are documented for MySQL; execution results are not included.
+
+## Author
+
+MBA – Business Analytics
+
+Areas of Interest: Business Analysis, Customer Analytics, Data Visualization and Business Intelligence.
