@@ -38,3 +38,27 @@ The project uses a synthetic Indian e-commerce dataset containing four datasets:
 **Analysis Period:** January 2024 – August 2026
 
 **Note:** The dataset is synthetic and created for learning and portfolio demonstration purposes.
+
+## RFM Analysis Methodology
+
+RFM analysis is used to evaluate customer behaviour based on three key metrics:
+
+| Metric | Definition | Business Meaning |
+|---|---|---|
+| Recency | Days since the customer's last purchase | How recently the customer purchased |
+| Frequency | Total number of purchases | How often the customer purchases |
+| Monetary | Total customer spending | How much the customer spends |
+
+Customers were scored and grouped into meaningful segments based on their RFM values.
+
+### Customer Segments
+
+The analysis identified the following customer segments:
+
+- Champions
+- Loyal Customers
+- Potential Loyalists
+- Recent Customers
+- Need Attention
+- At Risk
+- Hibernating
