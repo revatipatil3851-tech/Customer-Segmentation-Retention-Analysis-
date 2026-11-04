@@ -62,3 +62,26 @@ The analysis identified the following customer segments:
 - Need Attention
 - At Risk
 - Hibernating
+
+## Customer Segmentation Results
+
+The RFM analysis identified 7,376 customers across seven segments.
+
+| Customer Segment | Customers | Revenue (₹) |
+|---|---:|---:|
+| Champions | 1,461 | 367,353,231.82 |
+| Loyal Customers | 1,085 | 143,828,748.52 |
+| At Risk | 1,011 | 117,015,566.43 |
+| Potential Loyalists | 862 | 57,157,671.27 |
+| Hibernating | 1,940 | 52,674,772.36 |
+| Need Attention | 937 | 45,504,812.07 |
+| Recent Customers | 80 | 846,586.16 |
+| **Total** | **7,376** | **784,381,388.63** |
+
+### Key Performance Indicators
+
+- Total Customers: 7,376
+- Total Revenue: ₹78.44 Crore
+- Average Revenue per Customer: ₹1,06,342
+- Average Orders per Customer: 3.89
+- Average Recency: 281 Days
