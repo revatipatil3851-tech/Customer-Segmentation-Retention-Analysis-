@@ -85,3 +85,27 @@ The RFM analysis identified 7,376 customers across seven segments.
 - Average Revenue per Customer: ₹1,06,342
 - Average Orders per Customer: 3.89
 - Average Recency: 281 Days
+
+## Business Insights & Recommendations
+
+### Key Business Insights
+
+1. **High-value customers:** Champions and Loyal Customers contribute approximately 65.2% of total revenue.
+2. **Customer reactivation opportunity:** Hibernating customers form the largest segment, with 1,940 customers.
+3. **Retention risk:** 1,011 customers are classified as At Risk and require targeted engagement.
+4. **Growth opportunity:** Potential Loyalists can be encouraged to make repeat purchases.
+5. **New customer engagement:** Recent Customers can be nurtured through second-purchase incentives.
+
+### Business Recommendations
+
+| Customer Segment | Recommended Strategy |
+|---|---|
+| Champions | VIP rewards and exclusive benefits |
+| Loyal Customers | Loyalty programmes and cross-selling |
+| Potential Loyalists | Repeat purchase offers |
+| Recent Customers | First-to-second purchase incentives |
+| Need Attention | Personalised engagement campaigns |
+| At Risk | Targeted retention offers |
+| Hibernating | Win-back and reactivation campaigns |
+
+These recommendations aim to improve customer engagement, strengthen loyalty and reduce customer inactivity.
