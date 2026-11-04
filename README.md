@@ -109,3 +109,17 @@ The RFM analysis identified 7,376 customers across seven segments.
 | Hibernating | Win-back and reactivation campaigns |
 
 These recommendations aim to improve customer engagement, strengthen loyalty and reduce customer inactivity.
+
+## Power BI Dashboard Previews
+
+### 1. Customer Segmentation Overview
+
+This dashboard presents customer distribution, revenue contribution and segment performance.
+
+![Customer Segmentation Overview](screenshots/customer-segmentation-overview.png)
+
+### 2. Customer Behaviour Analysis
+
+This dashboard explores customer recency, purchase frequency and customer value.
+
+![Customer Behaviour Analysis](screenshots/customer-behaviour-analysis.png)
