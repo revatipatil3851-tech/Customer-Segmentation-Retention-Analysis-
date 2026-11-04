@@ -118,6 +118,40 @@ This dashboard presents customer distribution, revenue contribution and segment 
 
 ![Customer Segmentation Overview](screenshots/customer-segmentation-overview.png)
 
+## Project Workflow
+
+The project followed these key stages:
+
+1. **Data Understanding:** Explored the four e-commerce datasets.
+2. **Data Preparation:** Cleaned and prepared data using Python.
+3. **Exploratory Data Analysis:** Analysed customer and purchasing patterns.
+4. **RFM Analysis:** Calculated Recency, Frequency and Monetary metrics.
+5. **Customer Segmentation:** Grouped customers into seven meaningful segments.
+6. **Dashboard Development:** Created interactive Power BI dashboards.
+7. **Business Recommendations:** Identified retention opportunities and proposed strategies.
+
+## Key Learnings
+
+- Applied RFM analysis to customer segmentation.
+- Developed customer-level business insights.
+- Practised data cleaning and exploratory analysis using Python.
+- Designed interactive Power BI dashboards.
+- Translated analytical findings into business recommendations.
+
+## Conclusion
+
+This project demonstrates how customer transaction data can be transformed into meaningful business insights.
+
+By identifying high-value, loyal, at-risk and inactive customers, businesses can develop targeted retention strategies and make more informed decisions.
+
+---
+
+**Project Type:** Business Analytics | Customer Segmentation | Retention Analytics
+
+**Dataset:** Synthetic Indian E-commerce Dataset
+
+**Tools:** Python | SQL | Power BI | GitHub
+
 ### 2. Customer Behaviour Analysis
 
 This dashboard explores customer recency, purchase frequency and customer value.
